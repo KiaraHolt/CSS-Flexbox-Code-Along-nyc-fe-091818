@@ -25,6 +25,8 @@
 .container {
   border:10px solid goldenrod;
   height:100vh;
+  display: flex;
+  flex-direction:row-reverse;
 }
 
 
